@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e14d75af795d4145b16bfc6daf7e8a8
+timeCreated: 1507640440
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GameLogo: {fileID: 2800000, guid: 532521e245a5e9d4f836d771eab8f461, type: 3}
+  - skin: {fileID: 11400000, guid: 6c1065b42cbc49649934570280c20396, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
